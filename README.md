@@ -14,3 +14,5 @@ El juego es una mezcla entre el snake original y el slither.io donde podes comer
 
 Todo fue escrito en Java sin usar Motores de Juego o Frameworks excepto por el Motor de Sonido hecho por
 **Niklas Keller (usuario kelunik) [Sound Engine](https://github.com/kelunik/SoundEngine)**.
+
+![](Snake.png)
